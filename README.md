@@ -9,7 +9,7 @@ I am a software developer passionate about creating robust and efficient solutio
 - 🔍 I like to write clean code, maintain best practices, and constantly learn new technologies.
 - 🤝 I am interested in collaborating on open source projects and working in teams.
 
-## 🛠️ Lanaguages and Tools
+## 🛠️ Languages and Tools
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
@@ -35,8 +35,8 @@ I am a software developer passionate about creating robust and efficient solutio
 ## 📊 GitHub Stats
 
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=JesusAdrianP&show_icons=true&theme=tokyonight" alt="Jesús Adrián's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusAdrianP&layout=compact&theme=tokyonight" alt="Top Langs" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JesusAdrianP&show_icons=true&theme=tokyonight" alt="Jesús Adrián's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusAdrianP&layout=compact&theme=tokyonight" alt="Top Langs"/>
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JesusAdrianP&" alt="JesusAdrianP" /></p>
