@@ -48,4 +48,6 @@ Soy un desarrollador de software apasionado por crear soluciones robustas y efic
 
 ![Jesús Adrián's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JesusAdrianP&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JesusAdrianP&layout=compact&theme=radical)
+
 ---
