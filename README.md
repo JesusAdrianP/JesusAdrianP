@@ -27,8 +27,8 @@ I am a software developer passionate about creating robust and efficient solutio
 
 ## 📫 Where can you contact me?
 
-- [LinkedIn](https://www.linkedin.com/in/JesusAdrianP)
-- [Email](mailto:pena47337@gmail.com)
+[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg) LinkedIn](https://www.linkedin.com/in/JesusAdrianP)  
+[![Gmail](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg) Email](mailto:pena47337@gmail.com)
 
 ---
 
