@@ -30,14 +30,10 @@ I am a software developer passionate about creating robust and efficient solutio
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VSCode" />
 </p>
 
----
-
 ## 📫 Where can you contact me?
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="25" /> LinkedIn](https://www.linkedin.com/in/JesusAdrianP)  
 [<img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="25" /> Email](mailto:pena47337@gmail.com)
-
----
 
 ## 📊 GitHub Stats
 
