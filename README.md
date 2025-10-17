@@ -39,4 +39,6 @@ I am a software developer passionate about creating robust and efficient solutio
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusAdrianP&layout=compact&theme=tokyonight" alt="Top Langs" width="48%" />
 </p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JesusAdrianP&" alt="JesusAdrianP" /></p>
+
 ---
