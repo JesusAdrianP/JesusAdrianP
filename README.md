@@ -33,9 +33,10 @@ I am a software developer passionate about creating robust and efficient solutio
 ---
 
 ## 📊 GitHub Stats
-<p>
-![Jesús Adrián's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JesusAdrianP&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JesusAdrianP&layout=compact&theme=tokyonight)
+
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=JesusAdrianP&show_icons=true&theme=tokyonight" alt="Jesús Adrián's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusAdrianP&layout=compact&theme=tokyonight" alt="Top Langs" width="48%" />
 </p>
 
 ---
