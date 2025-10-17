@@ -3,7 +3,7 @@
 ### 🧑‍💻 Software Developer | Backend-Focused with Frontend Skills
 I am a software developer passionate about creating robust and efficient solutions. My main focus is **backend** development, but I also have experience and skills in **frontend** development.
 
-## 🚀 A little more about me
+## 🚀 About me
 
 - 💻 I specialize in building Rest APIs, scalable systems, and microservice-oriented web solutions.
 - 🔍 I like to write clean code, maintain best practices, and constantly learn new technologies.
